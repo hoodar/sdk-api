@@ -60,7 +60,7 @@ Contains module information.
 
 ### -field SizeOfStruct
 
-The size of the structure, in bytes. The caller must set this member to <code>sizeof(IMAGEHLP_MODULE64)</code>.
+The size of the structure, in bytes. The caller must set this member to <code>sizeof(IMAGEHLP_MODULEW64)</code>.
 
 ### -field BaseOfImage
 
